@@ -8,4 +8,5 @@ Recommendation system: based on Yelp dataset (the given stars rated by a user fo
 #Task 2_2: Using XGBregressor(a regressor based on the decision tree) to train a model with extra features from businesses and users themselves like the average stars rated by a user, the number of reviews and so on, getting RMSE under 1.00.
 
 #Task 2_3: Created a hybird recommendation system with weighted score for Item-based CF and XGBregressor to predict , getting RMSE under 0.99.
-Competition: Improving the recommenddation system to get RMSE under 0.983, with runtime under 230 seconds. Combinded SVD, Item-based CF, content-baed CF and XGBregressor to get a weighted and switech algorithm.
+
+#Competition: Improving the recommenddation system to get RMSE under 0.983, with runtime under 230 seconds. Combinded SVD, Item-based CF, content-baed CF and XGBregressor to get a weighted and switech algorithm.
